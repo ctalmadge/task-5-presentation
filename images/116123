@@ -1,0 +1,462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" id="geograph">
+<head>
+	
+	<title>Looking towards Coombe Bottom from near... (C) Rob Farrow :: Geograph Britain and Ireland</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="description" content="Coombe Bottom is a quite steep valley with a minor stream. The Southern end of this valley (Coombe Hole) is to the right of this viewpoint, opposite Gallows Hill. (This shot is looking along the field boundary which runs from 963171... more" />
+		<meta name="ICBM" content="51.844189074869, -0.60205306448473"/>	<meta name="DC.title" content="Geograph:: Looking towards Coombe Bottom from near... (C) Rob Farrow"/>
+	<meta name="twitter:card" content="photo">
+<meta name="twitter:site" content="@geograph_bi">
+<meta name="og:image" content="http://t0.geograph.org.uk/stamped/116123_8f8a892e.jpg">
+<meta name="og:title" content="Looking towards Coombe Bottom from near... (C) Rob Farrow">
+<meta name="og:description" content="Coombe Bottom is a quite steep valley with a minor stream. The Southern end of this valley (Coombe Hole) is to the right of this viewpoint, opposite Gallows Hill. (This shot is looking along the field boundary which runs from 963171 to 964174)">
+	<link rel="stylesheet" type="text/css" title="Monitor" href="http://s1.geograph.org.uk/templates/basic/css/basic.v8469.css" media="screen" />
+	<link rel="shortcut icon" type="image/x-icon" href="http://s1.geograph.org.uk/favicon.ico"/>
+	                <link rel="alternate" type="application/json+oembed" href="http://api.geograph.org.uk/api/oembed?url=http%3A%2F%2Fwww.geograph.org.uk%2Fphoto%2F116123&amp;format=json"/>
+		<link rel="alternate" type="application/vnd.google-earth.kml+xml" href="/photo/116123.kml"/>
+		<link rel="search" type="application/opensearchdescription+xml" title="Geograph Britain and Ireland search" href="/stuff/osd.xml" />
+	<script type="text/javascript" src="http://s1.geograph.org.uk/js/geograph.v8501.js"></script>
+</head>
+<body>
+<div id="header_block">
+  <div id="header">
+    <h1 onclick="document.location='/';"><a title="Geograph home page" href="/">Geograph - photograph every grid square</a></h1>
+  </div>
+</div>
+<div class="content_photowhite" id="maincontent_block"><div id="maincontent">
+<div style="float:right; position:relative; width:5em; height:4em;"></div>
+<div style="float:right; position:relative; width:2.5em; height:1em;"></div>
+<div itemscope itemtype="schema.org/Photograph"><meta itemprop="isFamilyFriendly" content="true"/>
+<h2><a title="Grid Reference SP9617 :: 13 images" href="/gridref/SP9617">SP9617</a> : Looking towards Coombe Bottom from near Gallows Hill</h2>
+ <h3 itemprop="contentLocation"><span title="Wednesday,  1 February, 2006">taken <b>11 years ago</b></span>, <span title="about 1 km from">near</span> to <b>Ivinghoe Aston</b><small><i>, Buckinghamshire, Great Britain</i></small></h3>
+
+
+<div about="http://s0.geograph.org.uk/photos/11/61/116123_8f8a892e.jpg" xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#">
+<div class="photolandscape">
+	
+      
+        <div style="float:left;position:relative;width:30px;height:20px"></div>
+	<div class="interestBox" style="float:right;position:relative;width:20px"><span  id="hideside"></span>
+		<img src="http://s1.geograph.org.uk/img/thumbs.png" width="20" height="20" onmouseover="show_tree('side'); if (!loadedBuckets || loadedBuckets.length == 0) jQl.loadjQ('http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js', function() { refreshMainList(116123); });"/>
+	</div>
+
+	<div style="float:right;position:relative">
+	<div style="position:absolute;left:-210px;top:-20px;width:220px;padding:10px;display:none;text-align:left" id="showside" onmouseout="hide_tree('side')">
+		<div class="interestBox" onmousemove="event.cancelBubble = true" onmouseout="event.cancelBubble = true">
+			<div id="votediv116123img"><a href="javascript:void(record_vote('img',116123,5,'img'));" title="I like this image! - click to agree">I like this image!</a></div>
+							<div id="votediv116123desc"><a href="javascript:void(record_vote('desc',116123,5,'desc'));" title="I like this description! - click to agree">I like this description!</a></div>
+						<br/>
+			<b>Image Buckets</b><br/>
+								<label id="116123labelCloseup" for="116123checkCloseup" style="color:gray">
+					<input type=checkbox id="116123checkCloseup" onclick="submitBucket(116123,'Closeup',this.checked?1:0,this.value,0);"> Closeup
+										</label><br/>
+
+								<label id="116123labelCloseCrop" for="116123checkCloseCrop" style="color:gray">
+					<input type=checkbox id="116123checkCloseCrop" onclick="submitBucket(116123,'CloseCrop',this.checked?1:0,this.value,0);"> CloseCrop
+					 (was Telephoto)					</label><br/>
+
+								<label id="116123labelWideangle" for="116123checkWideangle" style="color:gray">
+					<input type=checkbox id="116123checkWideangle" onclick="submitBucket(116123,'Wideangle',this.checked?1:0,this.value,0);"> Wideangle
+										</label><br/>
+
+								<label id="116123labelLandscape" for="116123checkLandscape" style="color:gray">
+					<input type=checkbox id="116123checkLandscape" onclick="submitBucket(116123,'Landscape',this.checked?1:0,this.value,0);"> Landscape
+										</label><br/>
+
+								<label id="116123labelArty" for="116123checkArty" style="color:gray">
+					<input type=checkbox id="116123checkArty" onclick="submitBucket(116123,'Arty',this.checked?1:0,this.value,0);"> Arty
+										</label><br/>
+
+								<label id="116123labelInformative" for="116123checkInformative" style="color:gray">
+					<input type=checkbox id="116123checkInformative" onclick="submitBucket(116123,'Informative',this.checked?1:0,this.value,0);"> Informative
+										</label><br/>
+
+								<label id="116123labelAerial" for="116123checkAerial" style="color:gray">
+					<input type=checkbox id="116123checkAerial" onclick="submitBucket(116123,'Aerial',this.checked?1:0,this.value,0);"> Aerial
+										</label><br/>
+
+								<label id="116123labelIndoor" for="116123checkIndoor" style="color:gray">
+					<input type=checkbox id="116123checkIndoor" onclick="submitBucket(116123,'Indoor',this.checked?1:0,this.value,0);"> Indoor
+										</label><br/>
+
+								<label id="116123labelSubterranean" for="116123checkSubterranean" style="color:gray">
+					<input type=checkbox id="116123checkSubterranean" onclick="submitBucket(116123,'Subterranean',this.checked?1:0,this.value,0);"> Subterranean
+										</label><br/>
+
+								<label id="116123labelGone" for="116123checkGone" style="color:gray">
+					<input type=checkbox id="116123checkGone" onclick="submitBucket(116123,'Gone',this.checked?1:0,this.value,0);"> Gone
+										</label><br/>
+
+								<label id="116123labelTemporary" for="116123checkTemporary" style="color:gray">
+					<input type=checkbox id="116123checkTemporary" onclick="submitBucket(116123,'Temporary',this.checked?1:0,this.value,0);"> Temporary
+										</label><br/>
+
+								<label id="116123labelPeople" for="116123checkPeople" style="color:gray">
+					<input type=checkbox id="116123checkPeople" onclick="submitBucket(116123,'People',this.checked?1:0,this.value,0);"> People
+										</label><br/>
+
+								<label id="116123labelLife" for="116123checkLife" style="color:gray">
+					<input type=checkbox id="116123checkLife" onclick="submitBucket(116123,'Life',this.checked?1:0,this.value,0);"> Life
+										</label><br/>
+
+								<label id="116123labelTransport" for="116123checkTransport" style="color:gray">
+					<input type=checkbox id="116123checkTransport" onclick="submitBucket(116123,'Transport',this.checked?1:0,this.value,0);"> Transport
+										</label><br/>
+
+			<br/>
+			<small>IMPORTANT: Please read the <span class="nowrap"><a title="Article about Buckets" href="/article/Image-Buckets" target="_blank">Buckets Article</a><img style="padding-left:2px;" alt="New Window" title="opens in a new window" src="http://s1.geograph.org.uk/img/newwin.png" width="10" height="10"/></span> before picking from this list</small>
+
+		</div>
+	</div>
+	</div>
+
+      
+  <div class="img-shadow" id="mainphoto" itemscope itemtype="http://schema.org/ImageObject"><img alt="Looking towards Coombe Bottom from near Gallows Hill" src="http://s0.geograph.org.uk/photos/11/61/116123_8f8a892e.jpg" width="640" height="480" itemprop="contentURL"/><meta itemprop="representativeOfPage" content="true"/></div>
+
+  <div class="caption640"><strong property="dct:title" itemprop="name">Looking towards Coombe Bottom from near Gallows Hill</strong></div>
+
+    <div class="caption640" itemprop="description">Coombe Bottom is a quite steep valley with a minor stream. The Southern end of this valley (Coombe Hole) is to the right of this viewpoint, opposite Gallows Hill. (This shot is looking along the field boundary which runs from 963171 to 964174)</div>
+    </div>
+
+
+<!-- Creative Commons Licence -->
+<div class="ccmessage"><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/"><img
+alt="Creative Commons Licence [Some Rights Reserved]" src="http://s1.geograph.org.uk/img/somerights20.gif" /></a> &nbsp; &copy; Copyright <a title="View profile" href="/profile/3546" xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName" rel="cc:attributionURL dct:creator">Rob Farrow</a> and
+licensed for <a href="/reuse.php?id=116123">reuse</a> under this <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" class="nowrap" about="http://s0.geograph.org.uk/photos/11/61/116123_8f8a892e.jpg" title="Creative Commons Attribution-Share Alike 2.0 Licence">Creative Commons Licence</a>.</div>
+<!-- /Creative Commons Licence -->
+
+<!--
+
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:georss="http://www.georss.org/georss/">
+<Work rdf:about="http://www.geograph.org.uk/photo/116123">
+     <dc:title>SP9617 : Looking towards Coombe Bottom from near Gallows Hill</dc:title>
+     <dc:identifier>http://www.geograph.org.uk/photo/116123</dc:identifier>
+     <dc:creator><Agent>
+        <dc:title>Rob Farrow</dc:title>
+     </Agent></dc:creator>
+     <dc:rights><Agent>
+        <dc:title>Rob Farrow</dc:title>
+     </Agent></dc:rights>
+     
+     <dc:dateSubmitted>2006-02-02 16:57:59</dc:dateSubmitted>
+     <dc:format>image/jpeg</dc:format>
+     <dc:type>http://purl.org/dc/dcmitype/StillImage</dc:type>
+     <dc:publisher><Agent>
+        <dc:title>www.geograph.org.uk</dc:title>
+     </Agent></dc:publisher>
+     <dc:subject>Valley</dc:subject>
+     <dc:coverage>2006-02-01</dc:coverage>
+     <georss:point>51.844189 -0.602053</georss:point>
+     <license rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+</Work>
+
+<License rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <requires rdf:resource="http://web.resource.org/cc/Notice" />
+   <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+   <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+</License>
+
+</rdf:RDF>
+-->
+</div>
+
+<div class="buttonbar">
+
+<table style="width:100%">
+<tr>
+<td colspan="6" align="center" style="padding:5px;border-bottom:1px solid gray;font-size:0.8em;">
+	&middot; <a href="/reuse.php?id=116123">Find out <b>How to reuse</b> this image</a> &middot;
+
+	Share:
+	<a title="Share this photo via Twitter" href="https://twitter.com/intent/tweet?text=Looking+towards+Coombe+Bottom+from+near+Gallows+Hill+by+Rob+Farrow&url=http://www.geograph.org.uk/photo/116123" onclick="window.open(this.href,'share','width=500;height=400'); return false;"><img alt="Twitter" src="http://s1.geograph.org.uk/img/twitter_16.png" width=16 height=16 style="vertical-align:middle"></a>
+	<a title="Share this photo via Facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://www.geograph.org.uk/photo/116123" onclick="window.open(this.href,'share','width=500;height=400'); return false;"><img alt="Facebook" src="http://s1.geograph.org.uk/img/facebook_16.png" width=16 height=16 style="vertical-align:middle"></a>
+	<a title="Share this photo via Google Plus" href="https://plus.google.com/share?url=http://www.geograph.org.uk/photo/116123&t=Looking+towards+Coombe+Bottom+from+near+Gallows+Hill+by+Rob+Farrow" onclick="window.open(this.href,'share','width=500;height=400'); return false;"><img alt="Google Plus" src="http://s1.geograph.org.uk/img/googleplus_16.png" width=16 height=16 style="vertical-align:middle"></a>
+	<a title="Share this photo via Pinterest" href="http://www.pinterest.com/pin/create/button/?media=http://s0.geograph.org.uk/photos/11/61/116123_8f8a892e.jpg&url=http://www.geograph.org.uk/photo/116123&description=Looking+towards+Coombe+Bottom+from+near+Gallows+Hill+by+Rob+Farrow" onclick="window.open(this.href,'share','width=500;height=400'); return false;"><img alt="Pinterest" src="http://s1.geograph.org.uk/img/pinterest_16.png" width=16 height=16 style="vertical-align:middle"></a>
+	<a title="Share this photo via Flipboard" href="https://share.flipboard.com/bookmarklet/popout?v=2&title=Looking+towards+Coombe+Bottom+from+near+Gallows+Hill+by+Rob+Farrow&url=http://www.geograph.org.uk/photo/116123" onclick="window.open(this.href,'share','width=500;height=400'); return false;"><img alt="Flipboard" src="http://s1.geograph.org.uk/img/flipboard_16.png" width=16 height=16 style="vertical-align:middle"></a>
+	<a title="Send an this via email/e-card" href="/ecard.php?image=116123"><img src="http://s1.geograph.org.uk/img/email_16.png" width=16 height=16 style="vertical-align:middle"></a> &middot;
+
+	<img src="http://s1.geograph.org.uk/img/download_16.png" width=16 height=16 style="vertical-align:middle"> <b><a href="/reuse.php?id=116123">Download Image</a></b> &middot;
+</td>
+</tr>
+<tr>
+<td width="11%" align="right"><a href="/discuss/index.php?gridref=SP9617"><img src="http://s1.geograph.org.uk/templates/basic/img/icon_discuss.gif" alt="Discuss" width="40" height="34" style="vertical-align:middle"/></a></td>
+<td style="font-size:0.8em;vertical-align:middle" align="left" width="22%">
+	<a href="/discuss/index.php?gridref=SP9617">Start a discussion on SP9617</a>
+</td>
+
+<td width="11%" align="right"><a href="/editimage.php?id=116123"><img src="http://s1.geograph.org.uk/templates/basic/img/icon_alert.gif" alt="Modify" width="40" height="34" style="vertical-align:middle"/></a></td>
+<td style="font-size:0.8em;vertical-align:middle" align="left" width="22%">
+			<a href="/editimage.php?id=116123">Suggest an update to this image</a>
+	</td>
+<td width="11%" align="right"><a href="/usermsg.php?to=3546&amp;image=116123"><img  src="http://s1.geograph.org.uk/templates/basic/img/icon_email.gif" alt="Email" width="40" height="34" style="vertical-align:middle"/></a></td>
+<td style="font-size:0.8em;vertical-align:middle" align="left" width="22%">
+	<a href="/usermsg.php?to=3546&amp;image=116123">Contact the contributor</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+<div class="picinfo">
+
+	<div class="rastermap" style="width:250px;position:relative">
+	<div style="position:relative;height:250px;width:250px;" id="rastermap"><div style="top:0px;left:0px;width:250px;height:250px"><img name="tile" src="http://t0.geograph.org.uk/tile.php?r=8oOubJ$olNhJ0o37MXdJL5405oXllMMMjabjZlljbO" style="width:250px;height:250px" border="1" alt="1:50,000 Modern Day Landranger(TM) Map &copy; Crown Copyright" nopin="true"/></div><div style="position:absolute;top:154.75px;left:104.75px;" id="marker1"><img src="http://s1.geograph.org.uk/img/icons/subc--1.png" alt="+" width="29" height="29" name="subicon"/></div><div style="position:absolute;top:262px;left:4px;display:none" id="marker2"><img src="http://s1.geograph.org.uk/img/icons/camicon--1.png" alt="+" width="20" height="31" name="camicon"/></div><div style="position:absolute;top:0px;left:0px;z-index:3"><a title="1:50,000 Modern Day Landranger(TM) Map &copy; Crown Copyright" href="/showmap.php?gridref=SP964171" onclick="popupOSMap('SP964171',''); return false;"><img src="http://s1.geograph.org.uk/img/blank.gif" class="mapmask" style="width:250px;height:250px" border="1" alt="1:50,000 Modern Day Landranger(TM) Map &copy; Crown Copyright" title="1:50,000 Modern Day Landranger(TM) Map &copy; Crown Copyright" name="map" galleryimg="no" nopin="true"/></a></div></div>
+		<div class="interestBox" style="margin-top:3px;margin-left:2px;padding:1px;"><small><span id="mapFootNoteOS50k">TIP: Click the map for Large scale mapping<br><a href="#" onclick="document.getElementById('rastermap').innerHTML = rawurldecode('%3Ciframe%20src%3D%22%2Fmap_frame.php%3Ft%3DZ4Z5W%24UoNJZRWZd4wR8oNJaW0mR4q24rd8rNoNJaW0mR4q24rd8rloXJ8%244wR8aoNJ8mGZ5oR4L80LJ8f4ZLIG0WLWG%24oNJW00DwTWLoJR4LoMN.jOONjuXhOjbuJRG%24Uo-X.bXlXMVXbOOjOhVJ%244L840LW%24U0oOubOXXJ%244LUrR8%24obJ%244L%24GrL5W%24U0olNhNXXJr8t8r8%24Z8eW%24a8foNJ08rvWZ8oCGGUR8JFWaL5olMXJL5405o4OV4NhNlb4VwttuN%22%20id%3D%22map%22%20width%3D%22250%22%20height%3D%22250%22%20scrolling%3D%22no%22%3ELoading%20map...%3C%2Fiframe%3E'); if (document.getElementById('mapFootNoteOS50k')) { document.getElementById('mapFootNoteOS50k').style.display = 'none';} return false;">Change to interactive Map &gt;</a></span><span id="mapFootNoteNPE"></span></small></div>
+		</div>
+
+	
+			<script type="text/javascript">
+				var cene = 496500;
+				var cenn = 217500;
+				var maph = 250;
+				var mapw = 250;
+				var mapb = 1;
+				var static_host = 's1.geograph.org.uk';
+			</script>
+			<script type="text/javascript">
+				var displayMarker1 = 1;
+				var displayMarker2 = 0;
+				document.images['map'].onmousemove = overlayHideMarkers;
+			</script>
+
+<div style="float:left;position:relative"><dl class="picinfo" style="margin-top:0px">
+
+
+
+<dt>Grid Square</dt>
+ <dd><a title="Grid Reference SP9617" href="/gridref/SP9617">SP9617</a>, 13 images &nbsp; (<a title="More pictures near SP9617" href="/search.php?q=SP%20964%20171" rel="nofollow">more nearby</a>
+	<a href="/browser/#!/loc=SP964171/dist=2000" title="view area in Browser"><img src="http://s1.geograph.org.uk/img/links/20/search.png" width=14 height=14></a>)
+</dd>
+
+	<dt>Photographer</dt>
+	 <dd><a title="View profile" href="/profile/3546" property="dc:creator" itemprop="author" rel="author">Rob Farrow</a> &nbsp; (<a title="pictures near SP9617 by Rob Farrow" href="/search.php?gridref=SP%20964%20171&amp;u=3546" class="nowrap" rel="nofollow">find more nearby</a>)</dd>
+
+	<dt>Image classification<sup><a href="/faq.php#points" class="about" style="font-size:0.7em">?</a></sup></dt>
+	<dd>		Geograph (First for SP9617)
+			<br/>First in 5 Years (TPoint) <sup><a href="/faq3.php?q=tpoint#61" class="about" style="font-size:0.7em">?</a></sup></dd>
+
+	<dt>Date Taken</dt>
+	<dd title="11 years ago"><span itemprop="exifData">Wednesday,  1 February, 2006</span> &nbsp; (<a title="pictures near SP9617 taken on Wednesday,  1 February, 2006" href="/search.php?gridref=SP%20964%20171&amp;orderby=submitted&amp;taken_start=2006-02-01&amp;taken_end=2006-02-01&amp;do=1" class="nowrap" rel="nofollow">more nearby</a>)</dd>
+<dt>Submitted</dt>
+	<dd itemprop="uploadDate" datetime="2006-02-02T16:57:59Z">Thursday,  2 February, 2006</dd>
+
+
+
+	<dt>Category</dt>
+
+	<dd>		<a href="/search.php?gridref=SP9617&amp;canonical=Valley&amp;do=1">Valley</a> &gt;
+		<span itemprop="keywords">Valley</span> &nbsp; (<a title="pictures near SP9617 of Valley" href="/search.php?gridref=SP%20964%20171&amp;imageclass=Valley" rel="nofollow">more nearby</a>)
+	</dd>
+
+<dt>Subject Location</dt>
+<dd style="font-family:verdana, arial, sans serif; font-size:0.8em">
+OSGB36: <img src="http://s1.geograph.org.uk/img/geotag_16.png" width="10" height="10" align="absmiddle" alt="geotagged!"/> <a href="/gridref/SP 964 171/links">SP 964 171</a> [100m precision]<br/>
+WGS84: <span class="geo"><abbr class="latitude" title="51.84419">51:50.6513N</abbr> <abbr class="longitude"
+title="-0.60205">0:36.1232W</abbr></span>
+  <div itemprop="contentLocation">
+  <div itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="51.84419" />
+    <meta itemprop="latitude" content="-0.60205" />
+  </div>
+  </div>
+</dd>
+
+
+
+</dl>
+
+<div style="font-size:0.8em;text-align:center">Looking for a postcode? <span class="nowrap"><a title="Try this page" href="http://www.nearby.org.uk/coord.cgi?p=SP+964+171&amp;f=lookup">Try this page</a><img style="padding-left:2px;" alt="External link" title="External link - shift click to open in new window" src="http://s1.geograph.org.uk/img/external.png" width="10" height="10"/></span></div>
+
+</div>
+
+  <div style="float:left; width:120px; position:relative">
+	
+<div class="map" style="margin-left:20px;border:2px solid black; height:170px;width:120px">
+
+<div class="inner" style="position:relative;top:0px;left:0px;width:120px;height:170px;">
+
+	<div>
+		<a href="/mapbrowse.php?o=toNJ5oNhXJ0oNJFoNlXJfoblbJqoNhXJL5405ohOVbZ8tNb8hbhjuO&amp;i=0&amp;j=0&amp;center=1"><img
+	alt="Clickable map" ismap="ismap" title="Click to zoom in" src="http://t0.geograph.org.uk/tile.php?map=5oNhXJroNJ0oNJFoNlXJfoblbJqoNhXJL5405oj8OwZXjtZw8ZNZO4" width="120" height="170"/></a>
+		</div>
+			<div style="position:absolute;top:115px;left:68px;"><a href="/mapbrowse.php?t=tolJ5oOXXJ0oOXJFoOXXJfobubJqolNXJL5405oatjVNNjaw4MOXhjj&amp;gridref_from=SP9617"><img src="http://s1.geograph.org.uk/img/crosshairs.gif" alt="+" width="16" height="16"/></a></div>
+	</div>
+</div>	<div style="width:inherit;margin-left:20px;"><br/>
+
+
+
+
+	</div>
+  </div>
+
+</div>
+<br style="clear:both"/>
+	<div class="hits">This page has been <a href="/help/hit_counter">viewed</a> about <b>313</b> times.</div>
+<div class="interestBox" style="text-align:center">View this location:
+
+
+<small style="font-size:0.8em"><a title="Open in Google Earth" href="http://www.geograph.org.uk/photo/116123.kml" class="xml-kml" type="application/vnd.google-earth.kml+xml">KML</a> (Google Earth)</small> &middot;
+<span class="nowrap"><a title="Open in Google Maps" href="http://www.google.co.uk/maps?q=51.844189074869,-0.60205306448473&t=h&z=14">Google Maps</a><img style="padding-left:2px;" alt="External link" title="External link - shift click to open in new window" src="http://s1.geograph.org.uk/img/external.png" width="10" height="10"/></span> &middot;
+<span class="nowrap"><a title="Open in Bing Maps" href="http://www.bing.com/maps?where1=51.844189074869,-0.60205306448473&style=h&lvl=14">Bing Maps</a><img style="padding-left:2px;" alt="External link" title="External link - shift click to open in new window" src="http://s1.geograph.org.uk/img/external.png" width="10" height="10"/></span> &middot;
+
+
+<a href="/mapper/?t=tolJ5oOXXJ0oOXJFoOXXJfobubJqolNXJL5405oatjVNNjaw4MOXhjj&amp;gridref_from=SP9617">OS Map Checksheet</a> &middot; 
+<a href="/mapbrowse.php?t=tolJ5oOXXJ0oOXJFoOXXJfobubJqolNXJL5405oatjVNNjaw4MOXhjj&amp;gridref_from=SP9617">Geograph Map</a> &middot;
+
+	
+<span class="nowrap"><img src="http://s1.geograph.org.uk/img/geotag_16.png" width="16" height="16" align="absmiddle" alt="geotagged!"/> <a href="/gridref/SP 964 171/links?&amp;taken=2017-02-01&amp;title=Looking%20towards%20Coombe%20Bottom%20from%20near%20Gallows%20Hill&amp;id=116123"><b>More Links for this image</b></a></span>
+</div>
+
+</div>
+<div style="text-align:center;margin-top:3px" class="interestBox" id="styleLinks"></div>
+<script type="text/javascript">
+/* <![CDATA[ */
+
+function addStyleLinks() {
+
+	document.getElementById('styleLinks').innerHTML = 'Background for photo viewing: <a hr'+'ef="/photo/116123?style=white" rel="nofollow" class="robots-nofollow robots-noindex hidelink">White</a> / <a hr'+'ef="/photo/116123?style=black" rel="nofollow" class="robots-nofollow robots-noindex">Black</a> / <a hr'+'ef="/photo/116123?style=gray" rel="nofollow" class="robots-nofollow robots-noindex">Grey</a>';
+
+}
+ AttachEvent(window,'load',addStyleLinks,false);
+
+
+function redrawMainImage() {
+	el = document.getElementById('mainphoto');
+	el.style.display = 'none';
+	el.style.display = '';
+}
+ AttachEvent(window,'load',redrawMainImage,false);
+ AttachEvent(window,'load',showMarkedImages,false);
+ AttachEvent(window,'load',function () {
+		collapseSnippets();
+	},false);
+
+
+/* ]]> */
+</script>
+
+
+
+<div style="width:100%;position:absolute;top:0px;left:0px;height:0px">
+	<div class="interestBox" style="float: right; position:relative; padding:2px;">
+		<table border="0" cellspacing="0" cellpadding="2">
+		<tr><td><a href="/browse.php?p=196399">NW</a></td>
+		<td align="center"><a href="/browse.php?p=196398">N</a></td>
+		<td><a href="/browse.php?p=196397">NE</a></td></tr>
+		<tr><td><a href="/browse.php?p=195499">W</a></td>
+		<td><b>Go</b></td>
+		<td align="right"><a href="/browse.php?p=195497">E</a></td></tr>
+		<tr><td><a href="/browse.php?p=194599">SW</a></td>
+		<td align="center"><a href="/browse.php?p=194598">S</a></td>
+		<td align="right"><a href="/browse.php?p=194597">SE</a></td></tr>
+		</table>
+	</div>
+	<div style="float:right">
+		[<a href="javascript:void(markImage(116123));" id="mark116123" title="Add this image to your site marked list">Mark</a>]&nbsp;
+	</div>
+</div>
+
+
+	
+
+</div>
+</div>
+<div id="nav_block" class="no_print">
+ <div class="nav">
+  <ul>
+    <li style="font-size:1.42em"><a accesskey="1" title="Return to the Home Page" href="/">Home</a></li>
+    <li>View<ul>
+     <li><a title="Find and locate images" href="/search.php">Search</a></li>
+     <li id="markedLink" style="display:none"><a title="View your current Marked Images" href="/finder/marked.php">Marked Images</a></li>
+     <li><a title="View map of all submissions" href="/mapbrowse.php">Maps</a></li>
+     <li><a title="Interactive browser, search and map in one" href="/browser/#!start">Browser</a></li>
+     <li><a title="Explore images by theme" href="/explore/">Explore</a></li>
+     <li><a title="Curated selection of images" href="/gallery.php">Gallery</a></li>
+    </ul></li>
+    <li><ul>
+     <li><a title="Submitted Pages, Galleries and Articles" href="/content/">Collections</a></li>
+    </ul></li>
+    <li>Interact<ul>
+     <li><a title="Geographical games to play" href="/games/">Games</a></li>
+     <li><a title="Discussion Forum" href="/discuss/">Discussions</a></li>
+         </ul></li>
+    <li>Contributors<ul>
+     <li><a title="Submit your photos" href="/submit.php">Submit</a></li>
+          <li><a title="Interesting facts and figures" href="/numbers.php">Statistics</a></li>
+     <li><a title="Contributor leaderboards" href="/statistics/moversboard.php">Leaderboards</a></li>
+    </ul></li>
+    <li>General<ul>
+     <li><a title="Frequently Asked Questions" href="/faq3.php?l=0">FAQ</a></li>
+     <li><a title="Info, Guides and Tutorials" href="/content/documentation.php">Project Info</a></li>
+     <li><a title="View a list of all pages" href="/help/sitemap">Sitemap</a></li>
+     <li><a title="Contact the Geograph Team" href="/contact.php">Contact Us</a></li>
+     <li><a title="Donate to Geograph Project" href="/help/donate">Support</a></li>
+    </ul></li>
+        </ul>
+<div class="sponsor">sponsored by <br/> <br/>
+<a title="Geograph sponsored by Ordnance Survey" href="https://www.ordnancesurvey.co.uk/education/"><img src="http://s1.geograph.org.uk/img/os-logo-p64.png" width="64" height="50" alt="Ordnance Survey"/></a></div>
+	<h3 class="newstitle">This photo is linked from:</h3>
+							<div class="newsheader">Automatic Clusters</div>
+				<div class="collection">&middot; <a href="/search.php?gridref=SP9617&amp;distance=1&amp;orderby=score+desc&amp;displayclass=full&amp;cluster2=1&amp;label=Coombe+Hole&amp;do=1" title="Automatic Cluster">Coombe Hole</a></div>
+					<div class="collection">&middot; <a href="/search.php?gridref=SP9617&amp;distance=1&amp;orderby=score+desc&amp;displayclass=full&amp;cluster2=1&amp;label=Gallows+Hill&amp;do=1" title="Automatic Cluster">Gallows Hill</a></div>
+						<div class="newsheader">Other Photos</div>
+				<div class="collection">&middot; <a href="/photo/1175284" title="Other Photo">Coombe Hole panorama</a></div>
+	  </div>
+</div>
+<div id="search_block" class="no_print">
+  <div id="search">
+    <div id="searchform">
+    <form method="get" action="/search.php">
+    <div id="searchfield">
+    <input type="hidden" name="form" value="simple"/>
+    <input id="searchterm" type="text" name="q" value="" size="10" title="Enter a Postcode, Grid Reference, Placename or a text search" onfocus="search_focus(this)" onblur="search_blur(this)"/>    <input id="searchbutton" type="submit" name="go" value="Find"/></div>
+    </form>
+    </div>
+  </div>
+  <div id="login"><span class="nowrap">
+    	  You are not logged in
+	  <a title="Already registered? Login in here" href="/login.php">login</a>
+		<span class="sep">|</span></span>
+	  <a title="Register to upload photos" href="/register.php">register</a>
+      </div>
+</div>
+	<div class="content2" id="footer_block">
+  <div id="footer" class="no_print">
+     <p style="color:#AAAABB;float:left">Page updated at 16:50</p>
+   <p><a href="/help/sitemap" title="Listing of site pages">Sitemap</a>
+       <span class="sep">|</span>
+       <a href="/article/Use-of-Cookies-on-Geograph-Website" title="How this site uses cookies">Cookies</a>
+       <span class="sep">|</span>
+       <a href="/help/credits" title="Who built this and how?">Credits</a>
+       <span class="sep">|</span>
+       <a href="/help/terms" title="Terms and Conditions">Terms of use</a>
+       <span class="sep">|</span>
+       <a href="/article/Get-Involved" title="contribute to geograph">Get Involved</a>
+    </p>
+    <p style="color:#777788;">Website supported by
+    <span class="nowrap"><a title="click to visit the livetodot website" rel="nofollow" href="http://www.livetodot.com/hosting/">Hosting from Livetodot</a><img style="padding-left:2px;" alt="External link" title="External link - shift click to open in new window" src="http://s1.geograph.org.uk/img/external.png" width="10" height="10"/></span>
+    </p>
+  </div>
+</div>
+<script src="http://s1.geograph.org.uk/js/links.v3.js"></script>
+<script src="http://s1.geograph.org.uk/js/related.v8513.js"></script><script>
+                function showMarkedLink() {
+                        current = readCookie('markedImages');
+                        if (current && current != '') {
+                                document.getElementById('markedLink').style.display='';
+                        }
+                }
+                AttachEvent(window,window.addEventListener?'DOMContentLoaded':'load',showMarkedLink,false);
+</script>
+</body>
+</html>
